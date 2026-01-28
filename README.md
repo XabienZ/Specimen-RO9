@@ -5,6 +5,7 @@ A modular DayZ creature‑themed mod built around Specimen RO‑9, an experiment
 This project is being open‑sourced to support learning, transparency, and community collaboration as the creature evolves.
 
 Current Features
+
 🧬 Custom Model
 
 A fully implemented model for Specimen RO‑9, prepared through a clean and reproducible export workflow.
