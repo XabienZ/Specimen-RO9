@@ -1,0 +1,6 @@
+<type name="Specimen_RO9">
+		<cargo preset="lootRO9" />
+		<cargo chance="0.11">
+			<item name="AntiChemInjector" chance="0.15" />
+		</cargo>
+</type>

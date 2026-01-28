@@ -1,0 +1,5 @@
+<cargo chance="0.15" name="lootRO9"> //This preset is defined in cfgspawnabletypes.xml
+	<item name="TunaCan" chance="0.10" /> 
+	<item name="SardinesCan" chance="0.10" />
+	<item name="Apple" chance="0.15" />
+</cargo>
