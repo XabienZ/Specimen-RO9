@@ -1,0 +1,19 @@
+# Normalize line endings
+* text=auto
+
+# Treat P3D and PAA as binary
+*.p3d binary
+*.paa binary
+
+# Prevent Git from trying to diff binary files
+*.p3d -diff
+*.paa -diff
+*.wav -diff
+*.ogg -diff
+
+# Keep configs readable
+*.cpp text
+*.xml text
+*.json text
+*.txt text
+*.md text
