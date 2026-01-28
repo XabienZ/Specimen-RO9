@@ -1,0 +1,11 @@
+ASSET NOTICE
+
+The models, textures, and audio assets included in this repository are not original creations.
+They are provided solely so the Specimen RO‑9 mod can be studied, built, and understood
+in its current form.
+
+These assets are included for educational and reference purposes only.
+
+No licence is granted for reuse, redistribution, or modification of these assets.
+You may not repack, reupload, or redistribute the included models, textures, or sounds
+in any form.
