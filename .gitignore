@@ -1,0 +1,33 @@
+# DayZ / Arma build artifacts
+*.pbo
+*.bisign
+*.bikey
+*.bak
+*.tmp
+*.log
+*.rpt
+*.exp
+*.bin
+
+# Object Builder / Tools
+*.p3d.cfg
+*.wrp.cfg
+
+# Textures / temp conversions
+*.paa.tmp
+*.tga.tmp
+
+# Windows / system clutter
+Thumbs.db
+Desktop.ini
+
+# macOS clutter
+.DS_Store
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# GitHub / tooling
+*.orig
